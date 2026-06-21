@@ -47,9 +47,9 @@ npm install
 
 ```json
 {
-  "serverHost": "yourserver.aternos.me",
-  "serverPort": 25565,
-  "botUsername": "MyBotName",
+  "serverHost": "UNX_SMP.aternos.me",
+  "serverPort": 45659,
+  "botUsername": "UNX_BOT",
   "botChunk": 4
 }
 ```
